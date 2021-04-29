@@ -1,0 +1,19 @@
+html{
+	background:#0B615E;
+	font-family: serif;
+}
+header nav
+{
+	text-align: center;
+	font-size: 2em;
+	padding: 1em;
+margin-left: 7%;
+}
+#tabla 
+{
+	margin-left: 45%;
+}
+#tabla td
+{
+	padding: 0.3em;
+}

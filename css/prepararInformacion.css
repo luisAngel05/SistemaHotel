@@ -1,0 +1,57 @@
+html{
+	background:#0B615E;
+	font-family: serif;
+}
+header nav{
+
+	text-align: center;
+	font-size: 2em;
+	padding: 1em;
+margin-left: 7%;
+}
+section input{
+	padding: 0.3em;
+	border: outset;
+border-radius: 0.5em;	}
+#registro
+{
+	text-align: center;
+
+
+}
+#uno
+{
+	margin-left: 1.5em;
+}
+#dos
+{
+	margin-left: -.5em;
+}
+#tres
+{
+	margin-left: 1.5em;
+}
+#cuatro
+{
+margin-left: 31em;
+max-width: 7%;
+	margin-top: 3em;
+	
+}
+#tabla{
+	margin-left: 36%;
+
+}
+#tabla td{
+	padding: 0.5em;
+}
+#botones
+{
+	text-align: center;
+}
+.costos{
+	margin-left: 50%;
+}
+#subtotal{
+margin-left: -1.2em;
+}

@@ -1,0 +1,29 @@
+html{
+	background:#0B615E;
+	font-family: serif;
+}
+header nav{
+
+	text-align: center;
+	font-size: 2em;
+	padding: 1em;
+margin-left: 7%;
+}
+#eliminar{
+text-align: center;
+}
+#btnEliminar{
+	margin-left: 19%;
+}
+#eliminar input{
+	padding: 0.3em;
+	border: outset;
+border-radius: 0.5em;	
+}
+#tabla
+{
+	margin-left: 5%;
+}
+#tabla td{
+	padding: 0.3em;
+}

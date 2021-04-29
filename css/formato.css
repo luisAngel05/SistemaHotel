@@ -1,0 +1,84 @@
+html{
+	background:#0B615E;
+	font-family: serif;
+}
+section fieldset{
+	padding:1em;
+    padding-bottom: 7em;
+
+	margin: 10%;
+	text-align: center;
+	font-weight: bold;
+	color: black;
+	font-size: 3.5em;
+
+}
+#elementos
+{
+	
+	margin-left: 36%;
+	
+	max-width: 24%;
+	margin-top: -32em;
+	padding: 2em;
+	padding-bottom: 5em;
+
+}
+#elementos input
+{
+	border-radius: 0.5em;	
+}
+#user{
+	
+	padding:0.5em; 
+	margin-left: 7em;
+	margin-top: -3em;
+}
+
+#pass{
+padding: 0.5em;
+margin-left: 35%;
+margin-top: -3em;
+}
+#iniciarSesion
+{
+	margin-left: 36em;
+	margin-top: -4em;
+	background: gray;
+	max-width:8.5%; 
+font-weight:bold;
+}
+#admin
+{
+	margin-left: 48em;
+	margin-top: -2.5em;
+	background: gray;
+	max-width:8.5%; 
+font-weight:bold;	
+}
+section form a
+{
+	margin-left: 37em;
+	max-width: 20%;
+	margin-top: 50%;
+	padding: 0.5em;
+	text-decoration: none;
+	color: black;
+	font-weight:bold;
+}
+section form a:hover
+{
+	text-decoration: underline;
+}
+#CCN a{
+	margin-left: 32em;
+	font-family: sans-serif;
+	font-color:black;
+	text-decoration: none;
+	color: white;
+	font-size: 1.2em;
+}
+#CCN a:hover
+{
+	text-decoration: underline;
+}

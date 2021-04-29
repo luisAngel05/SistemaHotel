@@ -1,0 +1,22 @@
+html{
+	background:#0B615E;
+	font-family: serif;
+}
+header nav{
+
+	text-align: center;
+	font-size: 2em;
+	padding: 1em;
+margin-left: 7%;}
+#eliminar
+{
+	text-align: center;
+}
+#btn{
+	margin-left: 19%;
+}
+#btn input{
+	padding: 0.3em;
+	border: outset;
+border-radius: 0.5em;	
+}

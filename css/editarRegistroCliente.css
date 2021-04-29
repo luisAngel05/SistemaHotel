@@ -1,0 +1,55 @@
+html{
+	background:#0B615E;
+	font-family: serif;
+}
+header nav{
+
+	text-align: center;
+	font-size: 2em;
+	padding: 1em;
+margin-left: 7%;
+}
+#registro
+{
+	text-align: center;
+
+
+}
+section input{
+	padding: 0.3em;
+	border: outset;
+border-radius: 0.5em;	
+}
+#AP
+{
+	margin-left: -2.5em;
+	
+}
+
+#D
+{
+	margin-left: 0.75em;
+}
+#T {
+	margin-left: 0.9em;
+}
+#P{
+	margin-left: 2.5em;
+}
+#Ciudad
+{
+	margin-left: 1.7em;
+}
+#CodigoP
+{
+margin-left: -1.4em;
+}
+#RFC
+{
+	margin-left: 2.7em;
+}
+#botones
+{
+	margin-left: 47%;
+}
+

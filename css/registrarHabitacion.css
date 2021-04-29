@@ -1,0 +1,79 @@
+html{
+	background:#0B615E;
+	font-family: serif;
+}
+header nav{
+
+	text-align: center;
+	font-size: 2em;
+	padding: 1em;
+margin-left: 7%;
+}
+#registro
+{
+	text-align: center;
+}
+section input{
+	padding: 0.3em;
+	border: outset;
+border-radius: 0.5em;	
+}
+#punto
+{
+	margin-left: -2em;
+}
+#uno 
+{
+	margin-left: -14.5em;
+}
+#dos 
+{
+	margin-left: 15em;
+	margin-top: -2.2em;
+
+}
+#tres
+{
+	margin-left: 7em;
+	margin-top: -2.3em;
+}
+#cuatro
+{
+	margin-left: 4em;
+}
+#cinco
+{
+	margin-left: 0.4em;
+}
+#seis
+{
+	margin-left: 32em;
+
+	max-width: 7%;
+	margin-top: 3em;
+
+}
+#siete
+{
+	margin-left: 31em;
+	
+	
+	max-width: 8%;
+	margin-top: 3em;
+}
+#textarea
+{
+padding: 0.3em;
+	border: outset;
+border-radius: 0.5em;	
+
+margin-left: 6.5em;
+margin-top: -3.5em;
+}
+#botones
+{
+	text-align: center;
+	margin-top: 2em;
+margin-left: 4em;
+	
+}
