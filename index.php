@@ -12,7 +12,6 @@
          <form id="elementos">
          	       <h3>Usuario:</h3> <input type="text" id="User" placeholder="ID de Usuario" maxlength="10" ><br>
          	  <h3> Contraseña: </h3><input type="password"id="pass" placeholder="Contraseña" maxlength="10" >
-
          </form>
 </section>
 <section>
